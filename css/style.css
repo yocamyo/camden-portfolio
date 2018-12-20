@@ -406,6 +406,13 @@ body {
   border:1px solid #021a40;
 }
 
+.client-panel {
+  height: 275px;
+  width: 275px;
+  padding:1px;
+  border:1px solid #021a40;
+}
+
 .faceApp {
   height: 275px;
   width: 275px;
